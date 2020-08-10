@@ -1,0 +1,41 @@
+[
+    {
+       "name": "Bicicleta",
+       "description": "Triatlón",
+       "price": "150.000",
+       "categories": ["Running", "Tria", "Ciclyng" ],
+       "colors": ["red", "blue", "green"],
+       "stock": 234
+     },
+
+    {
+        "name": "Zapatillas",
+        "description": "Zoot",
+        "price": "9900",
+        "categories": [
+            "Running",
+            "Tria",
+            "Ciclyng"
+        ],
+        "colors": [  "black", "green", "blue"],
+        "stock": "154"
+    },
+
+    {
+        "name": "Zapatillas",
+        "description": "Zoot",
+        "price": "9900",
+        "categories": [
+            "Running",
+            "Tria",
+            "Ciclyng"
+        ],
+        "colors": [
+            "black",
+            "green",
+            "blue"
+        ],
+        "stock": "154"
+    }
+
+]
