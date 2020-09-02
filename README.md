@@ -1,4 +1,4 @@
-# dashboardComoEnCasa
+# dashboard of 'Como En Casa'
 Dashboard del Proyecto Integrador de Digital House 'Como en Casa'
 
 1. ### `npm install`
